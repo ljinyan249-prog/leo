@@ -1,13 +1,12 @@
 ---
-title: Designing the Buyer Flow: Search, Filtering, and Trust
-date: 2026-04-24
-author: Leo
-summary: Designing the buyer journey around filtering, seller trust indicators, and privacy-first enquiries.
-
+title: "Prioritising Functional Requirements in EazyCars"
+date: "2026-04-20"
+author: "Leo"
+summary: "Prioritising the essential requirements of EazyCars and explaining the trade-offs behind excluding complex future features."
 tags:
-  - User Flow
-  - Search and Filtering
-  - Trust and Privacy
+  - Requirement Prioritisation
+  - Scope Management
+  - Trade-offs
 ---
 Write your content here.
 One of the most important parts of EazyCars was the buyer journey. Although the application also supports sellers, the buyer experience determines whether the platform is actually useful as a car marketplace. A buyer does not simply want to see a list of cars. They need to narrow the options, compare relevant details, judge the reliability of the seller, and contact the seller safely. For this reason, I designed the buyer flow around three main requirements: search and filtering, listing detail, and privacy-first enquiry.

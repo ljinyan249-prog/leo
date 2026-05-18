@@ -1,9 +1,8 @@
 ---
-title: Evaluation, Accessibility, and Responsible Design in EazyCars
-date: 2026-5-14
-author: Leo
-summary: Evaluating EazyCars through usability, accessibility, privacy, compliance, and responsible design considerations.
-
+title: "Evaluation, Accessibility, and Responsible Design in EazyCars"
+date: "2026-05-14"
+author: "Leo"
+summary: "Evaluating EazyCars through usability, accessibility, privacy, compliance, and responsible design considerations."
 tags:
   - Evaluation
   - Accessibility

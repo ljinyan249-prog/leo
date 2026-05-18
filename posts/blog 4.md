@@ -1,9 +1,8 @@
 ---
-title: Connecting Technical Decisions to Functional Requirements
-date: 2026-05-4
-author: Leo
-summary: Connecting EazyCars’ technical stack and database structure to its functional requirements.
-
+title: "Connecting Technical Decisions to Functional Requirements"
+date: "2026-05-04"
+author: "Leo"
+summary: "Connecting EazyCars' technical stack and database structure to its functional requirements."
 tags:
   - Technical Decisions
   - Database Design

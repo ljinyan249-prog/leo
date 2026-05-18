@@ -1,13 +1,12 @@
 ---
-title: ”Interpreting the Brief: Why EazyCars Needed More Than a Listing Page“
-date: ”2026-04-14“
-author: ”Leo“
-summary: “Defining EazyCars as a used-car community platform focused on buyer needs, seller privacy, trust, and functional scope”
-
+title: "Interpreting the Brief: Why EazyCars Needed More Than a Listing Page"
+date: "2026-04-14"
+author: "Leo"
+summary: "Defining EazyCars as a used-car community platform focused on buyer needs, seller privacy, trust, and functional scope."
 tags:
   - Functional Requirements
   - Project Scope
-  -  User Needs
+  - User Needs
 ---
 Write your content here.
 When I first interpreted the brief for my web application prototype, I wanted to avoid building a generic website that simply displayed items on a page. I decided to develop EazyCars, a used-car community hub where sellers can list vehicles and buyers can browse, filter, and send enquiries through the platform. The main reason for choosing this idea was that used-car marketplaces involve more than just showing products. Buyers often need to compare many listings, judge whether a seller appears trustworthy, and contact the seller without immediately exposing personal information.

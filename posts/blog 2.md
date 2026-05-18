@@ -1,13 +1,12 @@
 ---
-title: “Prioritising Functional Requirements in EazyCars”
-date: ”2026-04-20“
-author: ”Leo“
-summary: Prioritising the essential requirements of EazyCars and explaining the trade-offs behind excluding complex future features.
-
+title: "Prioritising Functional Requirements in EazyCars"
+date: "2026-04-20"
+author: "Leo"
+summary: "Prioritising the essential requirements of EazyCars and explaining the trade-offs behind excluding complex future features."
 tags:
   - Requirement Prioritisation
   - Scope Management
-  -  Trade-offs
+  - Trade-offs
 ---
 Write your content here.
 After deciding to build EazyCars as a used-car community hub, the next challenge was deciding which requirements were essential for the prototype and which features should remain outside the project scope. A used-car platform can quickly become very large because it could include payments, reviews, live chat, saved searches, recommendation systems, vehicle history reports, and many other advanced features. However, the purpose of this prototype was not to build a complete commercial marketplace. It was to identify the core functions needed for buyers and sellers to complete the main interaction in a usable and responsible way.
