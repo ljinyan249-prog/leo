@@ -1,11 +1,11 @@
 ---
-title: Prioritising Functional Requirements in EazyCars
-date: 2026-04-20
-author: Leo
+title: “Prioritising Functional Requirements in EazyCars”
+date: ”2026-04-20“
+author: ”Leo“
 summary: Prioritising the essential requirements of EazyCars and explaining the trade-offs behind excluding complex future features.
 
 tags:
-  - Requirement Prioritisation 
+  - Requirement Prioritisation
   - Scope Management
   -  Trade-offs
 ---

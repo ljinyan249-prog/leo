@@ -1,11 +1,11 @@
 ---
-title: Interpreting the Brief: Why EazyCars Needed More Than a Listing Page
-date: 2026-04-14
-author: Leo
-summary: Defining EazyCars as a used-car community platform focused on buyer needs, seller privacy, trust, and functional scope.
+title: ”Interpreting the Brief: Why EazyCars Needed More Than a Listing Page“
+date: ”2026-04-14“
+author: ”Leo“
+summary: “Defining EazyCars as a used-car community platform focused on buyer needs, seller privacy, trust, and functional scope”
 
 tags:
-  - Functional Requirements 
+  - Functional Requirements
   - Project Scope
   -  User Needs
 ---

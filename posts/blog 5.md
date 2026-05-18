@@ -5,7 +5,7 @@ author: Leo
 summary: Evaluating EazyCars through usability, accessibility, privacy, compliance, and responsible design considerations.
 
 tags:
-  - Evaluation  
+  - Evaluation
   - Accessibility
   - Responsible Design
 ---

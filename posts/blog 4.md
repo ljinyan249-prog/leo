@@ -5,7 +5,7 @@ author: Leo
 summary: Connecting EazyCars’ technical stack and database structure to its functional requirements.
 
 tags:
-  - Technical Decisions  
+  - Technical Decisions
   - Database Design
   - System Architecture
 ---

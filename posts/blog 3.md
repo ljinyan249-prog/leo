@@ -5,7 +5,7 @@ author: Leo
 summary: Designing the buyer journey around filtering, seller trust indicators, and privacy-first enquiries.
 
 tags:
-  - User Flow  
+  - User Flow
   - Search and Filtering
   - Trust and Privacy
 ---
