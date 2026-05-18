@@ -39,6 +39,12 @@ function applyTemplate(template, replacements) {
 /* Create a page for each blog post */
 const posts = [];
 
+// Ensure posts directory exists
+if (!fs.existsSync(POSTS_DIR)) {
+  console.warn(chalk.yellow(`⚠️  ${POSTS_DIR} directory not found, creating it...`));
+  fs.mkdirSync(POSTS_DIR, { recursive: true });
+}
+
 for (const file of fs.readdirSync(POSTS_DIR)) {
   if (!file.endsWith(".md") || file.startsWith("_")) continue;
 
@@ -102,8 +108,11 @@ const index = applyTemplate(template, {
 
 fs.writeFileSync(`${DIST_DIR}/index.html`, index);
 
-// Simple Node.js built-in method:
-fs.cpSync("assets", `${DIST_DIR}/assets`, { recursive: true });
-
+// Copy assets directory if it exists
+if (fs.existsSync("assets")) {
+  fs.cpSync("assets", `${DIST_DIR}/assets`, { recursive: true });
+} else {
+  console.warn(chalk.yellow("⚠️  assets directory not found, skipping copy..."));
+}
 
 console.log(chalk.green("✔ Build complete"));
