@@ -1,15 +1,11 @@
 
----
-title: "Final Reflection: Evaluating EazyCars as a Web Application Prototype"
 
-summary:"A final reflection on the performance, user experience, accessibility, functional requirements, and devel opment lessons from the EazyCars web application prototype."
-tags:
-  - Evaluation
-  - User Experience
-  - Reflection
----
+
+
 
 # Final Reflection: Evaluating EazyCars as a Web Application Prototype
+
+summary:"A final reflection on the performance, user experience, accessibility, functional requirements, and devel opment lessons from the EazyCars web application prototype."
 
 ## Evidence Used
 
