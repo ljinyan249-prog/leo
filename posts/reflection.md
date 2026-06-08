@@ -1,13 +1,14 @@
+
 ---
-title: "Connecting Technical Decisions to Functional Requirements"
-date: "2026-05-04"
-author: "Leo"
-summary: "Connecting EazyCars' technical stack and database structure to its functional requirements."
+title: "Final Reflection: Evaluating EazyCars as a Web Application Prototype"
+
+summary:"A final reflection on the performance, user experience, accessibility, functional requirements, and devel opment lessons from the EazyCars web application prototype."
 tags:
-  - Technical Decisions
-  - Database Design
-  - System Architecture
+  - Evaluation
+  - User Experience
+  - Reflection
 ---
+
 # Final Reflection: Evaluating EazyCars as a Web Application Prototype
 
 ## Evidence Used
